@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EJERCICIO_BBDD1</string>
+    <string name="cod">Código</string>
+    <string name="desc">Descripcion</string>
+    <string name="precio">Precio</string>
+    <string name="alta">alta</string>
+    <string name="cons_cod">consulta por código</string>
+    <string name="cons_desc">consulta por descripción</string>
+    <string name="baja_cod">baja por código</string>
+    <string name="modificacion">modificación</string>
+    <string name="limpiar">limpiar</string>
+</resources>
